@@ -174,7 +174,7 @@ applies and the card still lays out correctly, just without adapting to width.
 
 **Card doesn't appear**
 The resource isn't loading. Check the URL and that the type is *JavaScript
-Module*. The browser console logs `PREPAID-ENERGY-FLOW-CARD v1.1.0` when the
+Module*. The browser console logs `PREPAID-ENERGY-FLOW-CARD v1.1.1` when the
 card loads.
 
 **Battery sign is backwards**
